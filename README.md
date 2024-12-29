@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-**jhayccee12/Jhayccee12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<FOXY 2025
+is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
